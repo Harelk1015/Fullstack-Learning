@@ -1,7 +1,7 @@
 # Fullstack-Learning
 A guide for new fullstack devs
 
-# ברוך הבא לקבוצת ההכוונה לFullstack web.
+# ברוך הבא לקבוצת ההכוונה ל - Fullstack web.
 
 ## מה זה Fullstack web ? <br />
 כיום רוב התוכנות / אתרים / אפליקציה מחולקים ל - 2 front end ו back end -
@@ -63,7 +63,7 @@ Back end (צד שרת) :
 5. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/)
 6. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 
-7. [Typescript](https://www.udemy.com/course/understanding-typescript/) (use only Typescript form now)
+7. [Typescript](https://www.udemy.com/course/understanding-typescript/) (use only Typescript from now)
 8. [MERN Stack](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 
 Build your first project with - Node.js & MongoDB with Typescript, backend only for now (Or continue to React.js, whatever you want).
